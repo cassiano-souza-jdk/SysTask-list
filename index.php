@@ -8,7 +8,7 @@
 </head>
 <body>
     <div class="container mt-5">
-        <div class="justify-content-center">
+        <div class="justify-content-center row">
             <div class="col-12 col-sm-8 col-md-6">
                 <form action="" method="post">
                     <div class="form-group row">
@@ -31,7 +31,7 @@
                     </div>
 
                     <div class="form-group row">
-                        <div class="justify-content-end col-12 col-sm-8 col-md-6">
+                        <div class=" col-12 col-sm-8 col-md-6">
                         <button type="submit" class="btn btn-outline-primary btn-lg btn-block">Registrar</button>
                         </div>
                     </div>
